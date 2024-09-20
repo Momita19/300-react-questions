@@ -3,7 +3,7 @@ I will explore 300 react questions, to revise basic to advance react.
 
 ## Day 1
 1. What is virtual dom?
-      - virtual dom is like a blueprint tree for react, it is update the change on virtual dom and compare with real dom and update only the exact change on the real dom instead changing in the whole real dom.
+      - virtual dom is like a mirror tree for react, it is update the change on virtual dom tree first and then compare with real dom and update only the exact change on the real dom instead changing in the whole real dom.
 2. what is diffing and reconciliation algorithm?
       - The difference between the virtual dom tree and real dom tree, is driffing algorithm and this process called reconciliation.
 3. What is react fibre?
