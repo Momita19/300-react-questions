@@ -14,6 +14,19 @@ I will explore 300 react questions, to revise basic to advance react.
       3. mouse : onMouseEnter, onMouseLeave, onMouseMove
       4. submit : onSubmit
       5. change : onChange
+         - click event
+        ```function ClickButton(){
+            function handleClick(){
+           alert("you clicked me")
+           }
+           return(
+           <button onClick={handleClick}>
+            Click me
+           </button>
+           )
+           }```
+         - 
+         
 
 6. Refs in react?
 7. functional vs class components
