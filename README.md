@@ -41,4 +41,16 @@ I will explore 300 react questions, to revise basic to advance react.
       - it is runtime environment, we can use javascript out of the compiler.      
 10. 
 
+## Day 2
+1. what is jsx?
+- jsx is extension to javascript.
+2. can web browser read jsx directly?
+- No, we use babel to read jsx as the jsx is not the regular javascript we can not read by web browser. We can only read regular javascript directly.
+3. What is the difference between ES6 and ES5?
+- require and import
+- classes and components syntax
+- export -> module.export (ES5)/export default component()(ES6)
+- Object manipulation is slow for processing in ES5, due to destructuring - ES6 is fast
+
+4. 
 
