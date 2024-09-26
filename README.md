@@ -52,5 +52,19 @@ I will explore 300 react questions, to revise basic to advance react.
 - export -> module.export (ES5)/export default component()(ES6)
 - Object manipulation is slow for processing in ES5, due to destructuring - ES6 is fast
 
-4. 
+4. what are pure components?
+- it uses shouldComponentUpdate() method to update everything which is changing only one time instead of again and again update iteration. It prevents from re-render which is not going to change.
+5. what is state in React?
+  - holds some information that may change over the lifetime of the component.
+  - state is used for internal communication inside a component.
+  - state is same as prop but private and controlled by component only.
+6. what is props in React?
+  - *Props are the inputs to component*
+7. when to use class component over a functional component?
+  - 
+8. How to create refs?
+  -  
+9. How are forward refs?
+  - 
+10. what are uncontrolled components?
 
