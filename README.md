@@ -32,7 +32,7 @@ I will explore 300 react questions, to revise basic to advance react.
          
 
 6. Refs in react?
-      1. Refs are used to directly access or manipulate the dom events,
+      1. Refs are used to access or manipulate the dom events directly,
       2. we should not use refs
          
 7. functional vs class components
@@ -53,14 +53,14 @@ I will explore 300 react questions, to revise basic to advance react.
 - Object manipulation is slow for processing in ES5, due to destructuring - ES6 is fast
 
 4. what are pure components?
-- it uses shouldComponentUpdate() method to update everything which is changing only one time instead of again and again update iteration. It prevents from re-render which is not going to change.
-5. what is state in React?
+- it uses the shouldComponentUpdate() method to update everything that is changing only once instead of updating iterations repeatedly. It prevents re-render which is not going to change.
+5. what is a state in React?
   - holds some information that may change over the lifetime of the component.
   - state is used for internal communication inside a component.
-  - state is same as prop but private and controlled by component only.
-6. what is props in React?
+  - state is the same as prop but private and controlled by component only.
+6. what are props in React?
   - *Props are the inputs to component*
-7. when to use class component over a functional component?
+7. When should we use a class component over a functional component?
   - 
 8. How to create refs?
   -  
